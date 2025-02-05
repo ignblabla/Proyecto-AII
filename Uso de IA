@@ -1,0 +1,97 @@
+# Uso de Inteligencia Artificial en el Proyecto de Organización de Eventos 🤖
+![Imagen del Proyecto](https://www.informatica.us.es/docs/imagen-etsii/logo-ETSII-US-Vertical-Color.png)
+
+
+## Índice
+1. [Historial de versiones](#historial-de-versiones)
+2. [Introducción](#introducción)
+3. [Información del Proyecto](#información-del-proyecto)
+4. [Integrantes del Grupo](#integrantes-del-grupo)
+5. [Política de Uso de Inteligencias Artificiales Generativas](#política-de-uso-de-inteligencias-artificiales-generativas)
+6. [Inteligencias Artificiales Permitidas](#inteligencias-artificiales-permitidas)
+7. [Registro de Uso de IA](#registro-de-uso-de-ia)
+8. [Bibliografía](#bibliografía)
+
+## Historial de versiones
+| Fecha | Versión | Descripción |
+|------------|---------|------------------|
+| 05/02/2024 | 1.0 | Creación del documento |
+
+## Introducción
+Este documento tiene como objetivo establecer las políticas y el uso de herramientas de inteligencia artificial dentro del desarrollo del proyecto de organización de eventos. Se detallarán las IAs permitidas, los métodos de registro de uso y ejemplos de aplicación en el proceso de desarrollo.
+
+## Información del Proyecto
+**Asignatura:** Ingeniería de Software y Práctica Profesional  
+**Proyecto:** Aplicación Web para la Gestión de Eventos  
+**Grupo:** Desarrollo de Software ISPP 2024  
+
+## Integrantes del Grupo
+
+| Nombre |
+|-----------------------------|
+| FRANCISCO AVILÉS CARRERA |
+| DANIEL BENITO HIDALGO |
+| IGNACIO BLANQUERO BLANCO |
+| ADRIÁN CABELLO MARTÍN |
+| MARÍA DE LA SALUD CARRERA TALAVERÓN | 
+| PABLO JESÚS CASTELLANOS COMPAÑA |
+| FERNANDO JOSÉ DE CELIS HURTADO | 
+| DAVID GODOY FERNÁNDEZ | 
+| MIGUEL HERNÁNDEZ SÁNCHEZ | 
+| ANTONIO MONTERO LÓPEZ |
+| GONZALO NAVAS REMMERS |
+| HÉCTOR NOGUERA GONZÁLEZ |
+| NATALIA OLMO VILLEGAS |
+| MANUEL PÉREZ VÉLEZ |
+| ANDRÉS PIZZANO CERRILLOS |
+| SERGIO PONS LÓPEZ |
+| LORENZO TORRALBA LANZAS |
+
+## Política de Uso de Inteligencias Artificiales Generativas
+El uso de Inteligencia Artificial (IA) en este proyecto se centrará en los siguientes aspectos:
+- **Generación de documentación**: Creación de plantillas, actas, informes y contenido técnico.
+- **Desarrollo de código**: Generación y refactorización de fragmentos de código bajo supervisión.
+- **Aclaraciones teórico-prácticas**: Consulta sobre buenas prácticas de desarrollo y principios de diseño de software.
+
+Todas las sugerencias de código generadas por IA serán revisadas y validadas por los desarrolladores para asegurar su calidad y funcionalidad.
+
+## Inteligencias Artificiales Permitidas
+Las herramientas de IA aprobadas para su uso en este proyecto son:
+- **ChatGPT**: Uso general para consultas, generación de contenido y apoyo en desarrollo.
+- **GitHub Copilot**: Asistente de codificación para sugerencias y generación de código.
+- **Gemini**: Herramienta avanzada para generación de texto, comprensión y análisis de información.
+- **Copilot de Microsoft**: Soporte en redacción, automatización de tareas y generación de contenido técnico.
+
+## Registro de Uso de IA
+El uso de IA se documentará de la siguiente manera:
+1. Exportación y almacenamiento de conversaciones relevantes.
+2. Registro de los prompts utilizados y su propósito.
+3. Marcado de código generado con IA para facilitar su revisión.
+
+### Ejemplo de Formato de Registro
+```
+class PlataformaRegistro:
+    def __init__(self):
+        self.usuarios = {}  # Diccionario para almacenar usuarios (simulación de base de datos)
+
+    def registrar_usuario(self, username, email, password):
+        if username in self.usuarios:
+            return "Error: El usuario ya está registrado."
+        
+        # Simulación de almacenamiento de datos
+        self.usuarios[username] = {"email": email, "password": password}
+        return f"Usuario {username} registrado exitosamente."
+
+# Ejemplo de uso
+plataforma = PlataformaRegistro()
+print(plataforma.registrar_usuario("usuario1", "usuario1@email.com", "password123"))
+print(plataforma.registrar_usuario("usuario1", "usuario1@email.com", "password123"))
+```
+
+### Ejemplos de Uso
+| Uso | Miembro | Fecha | Enlace |
+|----------------------------|------------------|------------|--------------------------------------------------|
+| Generación de plantilla de actas | Ignacio Blanquero Blanco | 03/02/24 | [Enlace del prompt utilizado](https://chatgpt.com/g/g-p-6773f007a70081919815fba148b6afcd-nacho/c/67a33ca7-ee34-8008-9220-9f1dd1831ca5) |
+
+## Bibliografía
+- [Guía de Ingeniería de Prompt](https://www.promptingguide.ai/es)
