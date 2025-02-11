@@ -1,0 +1,104 @@
+# 📋 Acta de Reunión (06/02/2025)
+![Imagen del Proyecto](https://www.informatica.us.es/docs/imagen-etsii/logo-ETSII-US-Vertical-Color.png)
+
+
+## 📌 Índice
+1. [Asistentes a la reunión](#asistentes-a-la-reunión)
+2. [Tabla de versiones](#tabla-de-versiones)
+3. [Introducción](#introducción)
+4. [Temas a tratar en la reunión](#temas-a-tratar-en-la-reunión)
+5. [Acuerdos adoptados](#acuerdos-adoptados)
+6. [Reparto de tareas](#reparto-de-tareas)
+7. [Planificación de la próxima reunión](#planificación-de-la-próxima-reunión)
+8. [Conclusiones](#conclusiones)
+
+---
+
+## 👥 Asistentes a la reunión
+- **Fecha:** 06/02/2025  
+- **Hora de inicio:** 10:00 horas 
+- **Hora de finalización:** 18:35
+- **Lugar / Plataforma:** Servidor de Discord 
+
+| Nombre | Asistencia (✔/❌) |
+|--------|-------------------|
+| FRANCISCO AVILÉS CARRERA | ✔ |
+| DANIEL BENITO HIDALGO | ✔ |
+| IGNACIO BLANQUERO BLANCO | ✔ |
+| ADRIÁN CABELLO MARTÍN | ✔ |
+| MARÍA DE LA SALUD CARRERA TALAVERÓN | ✔ |
+| PABLO JESÚS CASTELLANOS COMPAÑA | ✔ |
+| FERNANDO JOSÉ DE CELIS HURTADO | ✔ |
+| DAVID GODOY FERNÁNDEZ | ✔ |
+| MIGUEL HERNÁNDEZ SÁNCHEZ | ✔ |
+| ANTONIO MONTERO LÓPEZ | ✔ |
+| GONZALO NAVAS REMMERS | ✔ |
+| HÉCTOR NOGUERA GONZÁLEZ | ✔ |
+| NATALIA OLMO VILLEGAS | ✔ |
+| MANUEL PÉREZ VÉLEZ | ✔ |
+| ANDRÉS PIZZANO CERRILLOS | ✔ |
+| SERGIO PONS LÓPEZ | ✔ |
+| LORENZO TORRALBA LANZAS | ✔ |
+
+---
+
+## 📌 Tabla de versiones
+
+| Versión | Fecha | Descripción de cambios | Autor |
+|---------|------|------------------------|-------|
+| 1.0 | 06/02/2025 | Acta inicial | Ignacio Blanquero Blanco |
+| 1.1 | 07/02/2025 | Conclusión y retoques en el apartado de acuerdos adoptados | Ignacio Blanquero Blanco |
+
+---
+
+## 📝 Introducción
+El presente acta recoge los principales puntos discutidos y los acuerdos alcanzados en la reunión del 6 de febrero de 2025. Durante la sesión, se realizó una puesta en común de todas las tareas que debían completarse hasta la fecha, verificando su estado de avance y resolviendo posibles dudas. Asimismo, se definieron las tecnologías que se emplearán en el desarrollo del proyecto, tomando en cuenta su viabilidad y adecuación a los objetivos planteados. Finalmente, se trabajó en la preparación de la exposición que se llevará a cabo el viernes 7 de febrero de 2025, organizando el contenido y la estructura de la presentación. Esta acta servirá como referencia para el seguimiento de los acuerdos adoptados y la planificación de las siguientes etapas del proyecto.
+
+---
+
+## 📌 Temas a tratar en la reunión
+1. Revisión del estado de las tareas asignadas y puesta en común de avances.
+2. Resolución de dudas y ajustes en las tareas pendientes.
+3. Evaluación y selección de las tecnologías a utilizar en el desarrollo del proyecto.
+4. Justificación de las tecnologías elegidas en función de la viabilidad y los requerimientos del proyecto.
+5. Organización y estructuración de la exposición para la clase del viernes 07/02/2025.
+6. Designación de responsables para la recopilación del feedback de otros grupos con el objetivo de optimizar la gestión del conocimiento.
+
+---
+
+## ✅ Acuerdos adoptados
+- **Revisión de tareas**: Se han revisado y compartido los avances de las tareas asignadas hasta la fecha, resolviendo dudas y estableciendo ajustes necesarios para su correcta finalización.
+- **Evaluación y selección de las tecnologías**: Se ha decidido utilizar Spring Boot para el desarrollo del backend y React para el frontend, priorizando escalabilidad y eficiencia. Para las pruebas unitarias, se utilizará JUnit, garantizando la fiabilidad y calidad del código.
+- **Organización y estructuración de la exposición**: Se ha decidido que cada miembro del grupo ponga la información correspondiente a sus tareas en la presentación para que posteriormente sean Daniel Benito Hidalgo y Antonio Montero López los que se encarguen de mejorar visualmente la presentación y hacerla más atractiva.
+- **Designación de responsables para la recopilación del feedback**: Se ha acordado que la recopilación de información sobre el feedback de cada grupo sea realizada por un miembro diferente del equipo, asegurando así una distribución equitativa de esta tarea. La asignación ha quedado definida de la siguiente manera:  
+
+  - **Ignacio Blanquero Blanco**: Recopilará el feedback del grupo de **José María Portela**.  
+  - **Pablo Jesús Castellanos Compaña**: Recopilará el feedback del grupo de **Alberto Carmona**.  
+  - **Natalia Olmo Villegas**: Recopilará el feedback de **nuestro propio grupo**.  
+  - **Manuel Pérez Vélez**: Recopilará el feedback del grupo de **Jesús Salas**.  
+  - **Sergio Pons López**: Recopilará el feedback del grupo de **Javier García**.  
+  - **Daniel Benito Hidalgo**: Recopilará el feedback del grupo de **Adriana Vento**.  
+
+---
+
+## 📅 Planificación de la próxima reunión
+- **Fecha propuesta:** 11/02/2025.
+- **Hora:** 08:30 horas.
+- **Lugar / Plataforma:** Servidor de Discord.
+- **Temas pendientes o a tratar:**  
+  - Puesta en común y resolución de dudas de las tareas a realizar en la semana dos, las cuales serán anunciadas por los profesores en la clase del viernes 7 de febrero de 2025.
+  - Elección de vocales para la presentación del viernes 14 de febrero de 2025.
+
+---
+
+## 🔍 Conclusiones
+Durante la reunión del 6 de febrero de 2025, se llevó a cabo una revisión exhaustiva del estado de las tareas asignadas, permitiendo resolver dudas y realizar ajustes necesarios para garantizar su correcta finalización. Además, se definieron las tecnologías que se utilizarán en el desarrollo del proyecto, seleccionando Spring Boot para el backend y React para el frontend, con JUnit como framework para las pruebas unitarias, priorizando la escalabilidad y la fiabilidad del sistema.
+
+Asimismo, se estructuró la presentación para la sesión del 7 de febrero de 2025, organizando los contenidos y distribuyendo responsabilidades para mejorar su claridad y atractivo visual. Se estableció un sistema de recopilación de feedback por parte de otros grupos, delegando esta tarea entre diferentes miembros del equipo para optimizar la gestión del conocimiento.
+
+Por último, se programó la próxima reunión para el 11 de febrero de 2025, en la que se analizarán los avances en las tareas correspondientes a la siguiente fase del proyecto y se definirán los vocales para la exposición del 14 de febrero. Con estos acuerdos, el equipo avanza de manera coordinada, asegurando una ejecución eficiente y alineada con los objetivos establecidos.
+
+---
+
+✍️ **Elaborado por:** Ignacio Blanquero Blanco.
+📅 **Fecha de elaboración:** 07/02/2025.
